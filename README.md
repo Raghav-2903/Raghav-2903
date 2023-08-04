@@ -18,4 +18,9 @@ I'm an enthusiastic web developer with a passion for crafting engaging and user-
 
 🤝  I'm open to collaborating on interesting projects
 
+
+
+
+Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,vscode,mysql,matlab,r,linux,git,arduino)](https://skillicons.dev)
