@@ -24,3 +24,5 @@ I'm an enthusiastic web developer with a passion for crafting engaging and user-
 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,vscode,mysql,matlab,r,linux,git,arduino)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
