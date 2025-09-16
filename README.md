@@ -25,4 +25,4 @@ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,vscode,mysql,matlab,r,linux,git,arduino,postman,spring)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghav-2903)](https://git.io/streak-stats)
